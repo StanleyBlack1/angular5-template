@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/StanleyBlack1/angular5-template)
+
 # Angular5Template
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
